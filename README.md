@@ -1,2 +1,2 @@
-# homekitty
+# re-automation
 Home
